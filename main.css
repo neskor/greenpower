@@ -37,8 +37,13 @@ button,hr,input{overflow:visible}audio,canvas,progress,video{display:inline-bloc
         border-bottom: 3px solid black;
     }
 
+    .preteky {
+        background-images: url("/");
+    }
+
     .onas {
-        background-color: #fedfe7;
+        background-color: #1d7147;
+        color: white;
     }
     .title {
         max-width: 800px;
@@ -62,7 +67,8 @@ button,hr,input{overflow:visible}audio,canvas,progress,video{display:inline-bloc
         }
 
     .prihlasit {
-        background-color: #fdeb85;
+        background-color: #1d7147;
+        color: white;
     }
 
     .sponzori {
@@ -78,11 +84,13 @@ button,hr,input{overflow:visible}audio,canvas,progress,video{display:inline-bloc
     }
 
     .mousepen {
-        background-color: #f9c9b3;
+        background-color: #1d7147;
+        color: white;
     }
 
     .osnova {
-        background-color: #b3f2f9;
+        background-color: #1d7147;
+        color: white;
     }
 
     .videa {
